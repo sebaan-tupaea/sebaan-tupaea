@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+I’m a coder, creator, and connector—passionate about building cool things and meeting awesome people in the tech world. Let’s collab! 💻✨
 
-- 🔭 I’m currently working on a character development app
-- 🌱 I’m currently learning fullstack software development
-- 💬 Ask me about 
-- 📫 How to reach me: [LinkedIn]([url](https://www.linkedin.com/in/sebaan-tupaea/))
+🔭 Currently working on: A character development app
+🌱 Learning: Full-stack software development (✨skills unlocked✨)
+💬 Ask me about: Character development (but like, beyond the code 👀)
+📫 How to reach me: [https://www.linkedin.com/in/sebaan-tupaea/](url)
 
